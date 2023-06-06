@@ -1,0 +1,26 @@
+p{
+  margin: 60px; font-size: 18px
+}
+h2{
+  margin-left: 60px
+}
+h3{
+  margin-left: 60px
+}
+li{
+ margin-left:300px;
+ color: blue;
+  font-size: 18px;
+}
+
+.item{
+  margin-left: 60px; list-style: "–"; 
+}
+
+.none{
+  color: black; list-style: "–"; 
+  }
+.underline{
+  text-decoration: underlane;
+    text-decoration-color: green; 
+}
