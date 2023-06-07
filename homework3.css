@@ -1,11 +1,11 @@
 p{
-  margin: 60px; font-size: 18px
+  margin-left: 80px; font-size: 18px; margin-right: 80px
 }
 h2{
-  margin-left: 60px
+  margin-left: 80px
 }
 h3{
-  margin-left: 60px
+  margin-left: 80px
 }
 li{
  margin-left:300px;
@@ -14,13 +14,24 @@ li{
 }
 
 .item{
-  margin-left: 60px; list-style: "–"; 
+  margin-left: 80px; list-style: "-";margin-right: 80px 
 }
 
 .none{
   color: black; list-style: "–"; 
   }
+
 .underline{
   text-decoration: underlane;
     text-decoration-color: green; 
+}
+a {
+  color: black;
+}
+h1{
+  margin-left:300px; margin-right:300px;
+    text-align: center
+}
+img{
+  margin-top: 10px
 }
